@@ -83,5 +83,6 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 <img width="904" height="858" alt="image" src="https://github.com/user-attachments/assets/f6d3b149-a022-4572-99da-3e7d7057e317" />
 # RESULT
+
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
 
